@@ -9,6 +9,7 @@ def predict(data):
     TODO: modify it
     """
     result = data['col1'] + data['col2']
+    
     return result
 
 
