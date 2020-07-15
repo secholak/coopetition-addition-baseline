@@ -25,6 +25,7 @@ def main(input_dir, output_dir):
         os.path.join(output_dir, 'data.predict'),
         index=False,
         header=False)
+    
 
 
 if __name__ == "__main__":
